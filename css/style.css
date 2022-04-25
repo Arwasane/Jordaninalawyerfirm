@@ -16,7 +16,7 @@ h5,
 h6 {
     font-family: 'EB Garamond', serif;
     font-weight: 600;
-    font-style: italic;
+    /*font-style: italic;*/
     color: #121518;
 }
 
@@ -324,7 +324,7 @@ a:focus {
 
 .carousel .carousel-caption h1 {
     color: #ffffff;
-    font-size: 60px;
+    font-size: 40px;
     font-weight: 700;
     margin-bottom: 20px;
 }
@@ -476,7 +476,7 @@ a:focus {
     margin: 0;
     position: relative;
     font-size: 50px;
-    font-weight: 700;
+    font-weight: 300;
     white-space: nowrap;
     z-index: 1;
 }
@@ -609,7 +609,7 @@ a:focus {
 }
 
 .about .about-text p {
-    font-size: 16px;
+    font-size: 20px;
 }
 
 .about .about-text a.btn {
